@@ -1,0 +1,14 @@
+Git >> Version control
+
+
+>> for 1st time we need to configure github in our system
+1 . git config --global user.name "gitusername" (git config --global user.name "Tabrezkhann")
+2 . git config --global user.email "gitemail address" (git config --global user.email "innocenttrkkhan@gmail.com")
+
+git config --global color.ui auto
+
+mandatory command
+git init
+git remote add origin https://github.com/Tabrezkhann/FS.git
+
+git pull origin main

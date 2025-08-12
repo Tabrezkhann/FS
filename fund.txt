@@ -1,0 +1,46 @@
+MEAN - MongoDB, Express.js, Angular, Node.js
+Pillars - HTML(hyperText Markap language),CSS(Casecading styleSheet),js(JavaScript)
+MERN - mongoDB, Express.js, React, Node.js
+Java fullStack
+
+Web DEV : building/Developer Team
+        : Testing Team(Manual Tester, Automated Tester)
+        : Hosting Team (DevOps Team)
+        : Maintenance Team(Support Team)
+
+SDLC(Software Development Life Cycle) :
+        >>WaterFall Model
+        >>Agile Model
+        >>Sprial Model
+        >>Iterative Model
+        >>Incremental Model
+        >>V Shaped Model
+        >>RAD(Rapid Application Development) Model
+
+URL(uniform Resource Locator) : 
+        >> https://www.google.com
+        >>https://edu.tbz.ss/fullStack
+
+
+        >>https://meet.google.com
+        https : protocol
+        tbz : server or domain name
+        edu : sub-domain
+        ss : TLD (top level domain) --.in(india), .com(commercial), .edu(educatiom), .org(organization), .uk(united kingdoms)
+        fullStack : Path or location
+
+    Protocal : 
+        >>set of rule
+        >>http(hyperText Transfer protocol)
+        >>https(hyperText Transfer protocol secure)
+        >>tcp(transmission control protocol)
+        >>smtp(simple mail transfer protocol)
+        >>udp(User Datagram protocol)
+        >>ftp(file transfer protocol)
+        >>ip(internet protocol) ipv4 and ipv6
+
+
+        SSL(Secure Socket Layer) certificate
+
+
+
